@@ -1,0 +1,9 @@
+frm_CreateAccount = 66, 66, 558, 542, C, 66, 66, 558, 542, C
+frm_SendFile = 0, 0, 0, 0, C, 110, 110, 602, 586, C
+frm_NewServer = 110, 110, 612, 586, Z, 88, 88, 590, 564, C
+CommonDialog = 0, 0, 0, 0, C
+Mod_NewChatProgram = 0, 0, 0, 0, C
+Process = 0, 0, 0, 0, C
+Module1 = 44, 44, 559, 520, C
+Module2 = 110, 110, 625, 586, C
+Module3 = 0, 0, 492, 476, C
